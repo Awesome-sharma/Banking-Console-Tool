@@ -20,6 +20,11 @@
 
 import csv  #impoting necessary libraries
 
+print("***************************************************")
+print("*                                                 *")
+print("*               Banking Console Tool              *")
+print("*                                                 *")
+print("***************************************************")
 status = "T"
 field_names = ["S.N.","Date","Time","Credit/Debit","Amount","Balance"] #field names for the csv file
 
